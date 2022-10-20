@@ -1,5 +1,6 @@
 <h1 align="center">Jogo - Pong</h1>
-
+<img align='left'  alt="Pong" src="img/28-pong.jpg" width="10%">
+<br>
 <p align="left">
 Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, 
 desenvolvido pela Atari e lançado originalmente em 1972. .
